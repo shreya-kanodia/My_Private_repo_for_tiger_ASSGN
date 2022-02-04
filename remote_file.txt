@@ -1,0 +1,1 @@
+Creating a new file after pushing master branch in remote server in order to see difference between local branch 'master' and remote branch 'origin/master'
